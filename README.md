@@ -29,6 +29,4 @@ Integrating multi-spectral band analysis for better agricultural monitoring.
 Scaling the dataset to include more specific Indian topographical features.
 
 
-Link to Hugging Face where the project i sactually running : https://huggingface.co/spaces/Kumkum-5/Satellite-Image-
-
-Sensing/blob/main/app.py
+Link to Hugging Face where the project i sactually running : https://huggingface.co/spaces/Kumkum-5/Satellite-Image-Sensing
